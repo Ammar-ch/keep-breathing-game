@@ -13,5 +13,3 @@ Sie verlieren 75 Punkte, wenn Sie jeden Tag aufwachen.
 ## Fazit
 Sie müssen die Ressourcen intelligent nutzen. Damit Sie sieben aufeinanderfolgende Tage am Leben bleiben, sollten Sie vorsichtig sein mit  der Glücksmaschine Verwenden , denn wenn Sie eine falsche Antwort geben, kann dies Ihr Guthaben um 20% verringern.
 
-
-![image (2)](https://media.github.fh-zwickau.de/user/46/files/22e061e1-6c1a-4f64-9b5e-f716ace64f13)
